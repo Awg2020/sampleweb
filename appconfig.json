@@ -1,4 +1,0 @@
-{
-  "fileUris": ["https://https://raw.githubusercontent.com/Awg2020/sampleweb/main/InstalIIS.ps1"],
-  "commandToExecute": "powershell.exe ./InstalIIS.ps1"
-}
